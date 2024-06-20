@@ -18,8 +18,8 @@ myOffcanvas.addEventListener("hidden.bs.offcanvas", function () {
 // fitur waktu mundur
 simplyCountdown(".simply-countdown", {
   year: 2024, // required
-  month: 06, // required
-  day: 20, // required
+  month: 07, // required
+  day: 04, // required
   hours: 8, // Default is 0 [0-23] integer
   words: {
     //words displayed into the countdown
